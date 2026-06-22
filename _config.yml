@@ -17,6 +17,14 @@ search:
 color_scheme: light
 heading_anchors: true
 
+# 全ページに Just the Docs のレイアウトを適用する。
+# これが無いと layout 未指定のサブディレクトリ配下mdが素のHTML（テーマ未適用）になる。
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 footer_content: "© PARONYM Inc. — 顧客向け機能仕様（自動生成・試験運用中）"
 
 # サイト出力に含めないもの（ソース管理用ファイル等）

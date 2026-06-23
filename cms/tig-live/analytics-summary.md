@@ -2,6 +2,10 @@
 title: アナリティクス サマリー数値
 parent: Tig LIVE（CMS）
 nav_order: 1
+# CMS画面サイトマップ索引用（cms-index.md が自動集約）。リンク名はCMS実画面に準拠。
+cms_section: Tig LIVE
+cms_link_label: アナリティクス（サマリー数値）
+cms_path: Tig LIVE ＞ 配信を開く ＞ アナリティクス ＞ LIVE配信タブ
 ---
 
 # Tig LIVE アナリティクス サマリー数値

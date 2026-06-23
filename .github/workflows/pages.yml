@@ -33,6 +33,12 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Pagefind 索引生成（日本語/CJK対応の全文検索・本文#main-contentのみ）
+        run: npx -y pagefind@1 --site _site --root-selector "#main-content"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

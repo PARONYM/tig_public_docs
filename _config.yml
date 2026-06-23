@@ -6,13 +6,11 @@ theme: just-the-docs
 # Actions の build 時に --baseurl が渡され上書きされるが、整合のため明示しておく。
 url: https://paronym.github.io
 baseurl: /tig_public_docs
+lang: ja   # <html lang="ja"> を出力。Pagefind の日本語(CJK)分割に必要
 
-# 検索（Just the Docs 標準・クライアントサイド）
-search_enabled: true
-search:
-  heading_level: 3
-  previews: 3
-  rel_url: true
+# 検索は Pagefind（ビルド後に _site を索引化・日本語/CJK対応）に置き換え。
+# Just the Docs 標準の lunr 検索は無効化し、検索UIは search.md にマウントする。
+search_enabled: false
 
 color_scheme: light
 heading_anchors: true

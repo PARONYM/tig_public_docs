@@ -1,6 +1,6 @@
 ---
 title: 検索
-nav_order: 1.5
+nav_order: 20  # nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
 ---
 
 <link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">

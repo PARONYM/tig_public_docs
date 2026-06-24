@@ -1,7 +1,7 @@
 ---
 title: ホーム
 layout: default
-nav_order: 1
+nav_order: 10  # nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
 ---
 
 # Tig 仕様書（公開版）

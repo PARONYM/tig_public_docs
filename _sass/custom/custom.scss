@@ -35,6 +35,15 @@
   max-width: none;
 }
 
+// 3) スマホ幅: メニュー（ヘッダーバー＝.side-bar）を上部に固定（一緒にスクロールさせない）
+@media (max-width: 49.9rem) {
+  .side-bar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+}
+
 // ADD User
 .side-bar .site-title {
   font-size: 1.125rem !important;

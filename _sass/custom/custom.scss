@@ -2,6 +2,7 @@
 // Just the Docs 本体が末尾で `@import "./custom/custom";` するため、ここで上書き/追記できる。
 // 見た目の微調整はこのファイルを直接編集 → push（GitHub Actions 再ビルド）で公開反映。
 
+
 // 1) ヘッダー（サイトタイトル＝Tigロゴ 領域）を Tig CMS の #242424 に
 .site-header {
   background-color: #242424;
@@ -27,4 +28,19 @@
 }
 .main-content-wrap {
   max-width: none;
+}
+
+// ADD User
+.main-header {
+  border-bottom: none;
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: 16.5rem;
+  }
+
+  .side-bar + .main {
+    margin-left: 16.5rem;
+  }
 }

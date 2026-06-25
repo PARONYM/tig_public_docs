@@ -1,6 +1,7 @@
 ---
 title: アナリティクス（アーカイブ配信）
-parent: Tig LIVE（CMS）
+parent: CMS（LIVE）
+grand_parent: Tig LIVE
 nav_order: 20  # nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
 surface: CMS
 nav_section: Tig LIVE

@@ -2,7 +2,7 @@
 title: コンテンツ詳細
 parent: CMS（Short）
 grand_parent: Tig Short
-nav_order: 10  # nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
+nav_order: 20  # 表示順はUI遷移順（一覧→詳細）で詳細が後。nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: CMS
 nav_section: Tig Short

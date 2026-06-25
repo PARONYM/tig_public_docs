@@ -1,4 +1,5 @@
 title: Tig ドキュメント
+logo: "/headerLogo.png"   # ヘッダーの「Tig」をサービスアイコンに（docs/public/headerLogo.png）
 description: Tig プラットフォーム 顧客向け機能仕様書
 theme: just-the-docs
 

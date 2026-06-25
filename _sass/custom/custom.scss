@@ -1,0 +1,30 @@
+// ===== Tig CMS 風カスタム（顧客向け公開サイト / Just the Docs gem の上書き）=====
+// Just the Docs 本体が末尾で `@import "./custom/custom";` するため、ここで上書き/追記できる。
+// 見た目の微調整はこのファイルを直接編集 → push（GitHub Actions 再ビルド）で公開反映。
+
+// 1) ヘッダー（サイトタイトル＝Tigロゴ 領域）を Tig CMS の #242424 に
+.site-header {
+  background-color: #242424;
+  border-bottom: 1px solid #242424;
+}
+.site-title {
+  color: #ffffff;
+
+  &:hover {
+    background-image: none; // JtD のホバー時グラデを無効化
+  }
+}
+// ロゴ画像（横長・暗背景込み）をヘッダー高さに合わせて表示
+.site-logo {
+  height: 2.25rem;
+  background-position: left center;
+  background-size: contain;
+}
+
+// 2) コンテンツ幅をウインドウいっぱいに（既定の content 上限を解除）
+.main {
+  max-width: none;
+}
+.main-content-wrap {
+  max-width: none;
+}

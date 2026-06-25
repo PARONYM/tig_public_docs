@@ -44,26 +44,6 @@
   }
 }
 
-// 4) 用語集: カテゴリ別に分かれた表の列幅を固定し、全カテゴリ表で縦ラインを揃える。
-//    glossary.md は本文全体を <div class="glossary-fixed" markdown="1"> で囲むので、
-//    子孫セレクタで内側の全 table に効く（just-the-docs が .table-wrapper で包んでも子孫なのでOK）。
-//    2列目(意味)は table-layout:fixed のもと 1列目+3列目の残りを自動取得するので明示指定しない。
-.glossary-fixed table {
-  table-layout: fixed;
-  width: 100%;
-}
-.glossary-fixed th:nth-child(1),
-.glossary-fixed td:nth-child(1) {
-  width: 22%;
-}
-.glossary-fixed th:nth-child(3),
-.glossary-fixed td:nth-child(3) {
-  width: 28%;
-}
-.glossary-fixed td {
-  overflow-wrap: anywhere; // 固定幅で長い語が溢れないよう折返す
-}
-
 // ADD User
 .side-bar .site-title {
   font-size: 1.125rem !important;

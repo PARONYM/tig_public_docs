@@ -41,7 +41,21 @@
     position: sticky;
     top: 0;
     z-index: 1000;
+    // ナビが縦に長い時にメニュードロワー全体を画面内に収め、超過分はドロワー内でスクロール可能にする
+    // （下部の項目が押せない問題の解消）。ヘッダー高さの推測に依存しない堅牢な方法。
+    max-height: 100vh;
+    max-height: 100dvh; // dvh 対応ブラウザはこちらが勝つ（モバイルのアドレスバー高を考慮）
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
+}
+
+// 4) メニュー(ナビ)を画面サイズに依らず一律スクロール可能に。
+//    PC(md+)は JtD が .site-nav に overflow-y:auto + flex:1（position:fixed の全高カラム内）で
+//    既にスクロール可能。念のため全幅で明示し、将来 PC でも項目が増えた時に破綻させない。
+.site-nav {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 // ADD User

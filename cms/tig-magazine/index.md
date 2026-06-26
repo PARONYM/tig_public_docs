@@ -8,5 +8,3 @@ nav_order: 10  # nav_order は10刻み（間に挿入できる余地を残し、
 # CMS（Magazine）
 
 Tig Magazine の管理画面（CMS）に関する操作ドキュメントです。
-</content>
-</invoke>

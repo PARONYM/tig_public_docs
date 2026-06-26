@@ -1,7 +1,7 @@
 ---
 title: Tig Short
 has_children: true
-nav_order: 50  # nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
+nav_order: 60  # 製品トップは40以降（概要10/検索20/画面から探す30 の下）。nav_order は10刻み
 ---
 
 # Tig Short

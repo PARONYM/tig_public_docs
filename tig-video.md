@@ -1,7 +1,7 @@
 ---
 title: Tig Video
 has_children: true
-nav_order: 20  # nav_order は10刻み（間に挿入できる余地を残し、並べ替えは番号変更のみ＝ファイル名は変えない）
+nav_order: 40  # 製品トップは40以降（先頭固定: 概要10/検索20/画面から探す30 の下に来るように）。nav_order は10刻み
 ---
 
 # Tig Video

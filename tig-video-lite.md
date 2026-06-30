@@ -1,7 +1,7 @@
 ---
 title: Tig Video Lite
 has_children: true
-nav_order: 62  # 製品トップは40以降。Tig Short(60) と CMS共通(70) の間
+nav_order: 46  # 製品トップは40以降。Tig Branch Video(45) と Tig Magazine(47) の間
 ---
 
 # Tig Video Lite

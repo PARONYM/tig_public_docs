@@ -1,16 +1,15 @@
 ---
-title: LIVEプレイヤー（LIVE）
-parent: プレイヤー（LIVE）
-grand_parent: Tig LIVE
-nav_order: 5
+title: プレイヤー（LIVE）
+parent: Tig LIVE
+nav_order: 20  # nav_order は10刻み。CMS（LIVE）=10 の次
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
 nav_section: Tig LIVE
-nav_label: LIVEプレイヤー（LIVE）
-nav_path: Tig LIVE ＞ プレイヤー ＞ LIVEプレイヤー（LIVE）
+nav_label: プレイヤー（LIVE）
+nav_path: Tig LIVE ＞ プレイヤー（LIVE）
 ---
 
-# LIVEプレイヤー（LIVE）
+# プレイヤー（LIVE）
 {: .no_toc }
 
 LIVE配信をリアルタイムで視聴するプレイヤーの概要です。
@@ -47,7 +46,7 @@ LIVE配信をリアルタイムで視聴するプレイヤーの概要です。
 
 - 紹介アイテムの一覧・ストック・商品購入（EC連携）への導線が表示されます。
 - 配信終了から24時間以内はアンケートに回答できます（設定時）。
-- アーカイブ（録画）が公開されると、[LIVEプレイヤー（アーカイブ）]({{ '/player/tig-live/archive.html' | relative_url }})で視聴できます。
+- アーカイブ（録画）が公開されると、[プレイヤー（アーカイブ）]({{ '/player/tig-live/archive.html' | relative_url }})で視聴できます。
 
 ## LINE での視聴
 

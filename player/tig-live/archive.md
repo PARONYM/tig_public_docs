@@ -1,16 +1,15 @@
 ---
-title: LIVEプレイヤー（アーカイブ）
-parent: プレイヤー（LIVE）
-grand_parent: Tig LIVE
-nav_order: 10
+title: プレイヤー（アーカイブ）
+parent: Tig LIVE
+nav_order: 30  # CMS（LIVE）=10、プレイヤー（LIVE）=20 の次
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
 nav_section: Tig LIVE
-nav_label: LIVEプレイヤー（アーカイブ）
-nav_path: Tig LIVE ＞ プレイヤー ＞ LIVEプレイヤー（アーカイブ）
+nav_label: プレイヤー（アーカイブ）
+nav_path: Tig LIVE ＞ プレイヤー（アーカイブ）
 ---
 
-# LIVEプレイヤー（アーカイブ）
+# プレイヤー（アーカイブ）
 {: .no_toc }
 
 LIVE配信のアーカイブ（録画）を視聴するプレイヤーの概要です。

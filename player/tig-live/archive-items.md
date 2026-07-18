@@ -1,16 +1,16 @@
 ---
-title: 出演者情報・紹介アイテムの履歴
+title: 紹介アイテム履歴・出演者情報
 parent: プレイヤー（アーカイブ）
 grand_parent: Tig LIVE
 nav_order: 20
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
 nav_section: Tig LIVE
-nav_label: 出演者情報・紹介アイテムの履歴
-nav_path: Tig LIVE ＞ プレイヤー（アーカイブ） ＞ 出演者情報・紹介アイテムの履歴
+nav_label: 紹介アイテム履歴・出演者情報
+nav_path: Tig LIVE ＞ プレイヤー（アーカイブ） ＞ 紹介アイテム履歴・出演者情報
 ---
 
-# 出演者情報・紹介アイテムの履歴
+# 紹介アイテム履歴・出演者情報
 {: .no_toc }
 
 アーカイブ視聴中に確認できる出演者情報と、紹介アイテムの履歴の概要です。

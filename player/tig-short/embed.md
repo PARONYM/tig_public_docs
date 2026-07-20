@@ -1,16 +1,15 @@
 ---
-title: 外部サイトへの埋め込み・連携API
-parent: プレイヤー（Short）
-grand_parent: Tig Short
-nav_order: 80
+title: Short の埋め込み・連携API
+parent: 埋め込み連携（プレイヤー共通）
+nav_order: 40
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
-nav_section: Tig Short
-nav_label: 外部サイトへの埋め込み・連携API
-nav_path: Tig Short ＞ プレイヤー ＞ 外部サイトへの埋め込み・連携API
+nav_section: プレイヤー共通
+nav_label: Short の埋め込み・連携API
+nav_path: 埋め込み連携（プレイヤー共通） ＞ Short の埋め込み・連携API
 ---
 
-# 外部サイトへの埋め込み・連携API
+# Short の埋め込み・連携API
 {: .no_toc }
 
 Tig Short プレイヤーを外部サイトに埋め込む方法と、埋め込んだプレイヤーを外部サイトから制御・連携する API の概要です。

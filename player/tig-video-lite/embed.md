@@ -1,16 +1,15 @@
 ---
-title: 外部サイトへの埋め込み
-parent: プレイヤー（Video Lite）
-grand_parent: Tig Video Lite
-nav_order: 20
+title: Video Lite の埋め込み
+parent: 埋め込み連携（プレイヤー共通）
+nav_order: 60
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
-nav_section: Tig Video Lite
-nav_label: 外部サイトへの埋め込み
-nav_path: Tig Video Lite ＞ プレイヤー（Video Lite） ＞ 外部サイトへの埋め込み
+nav_section: プレイヤー共通
+nav_label: Video Lite の埋め込み
+nav_path: 埋め込み連携（プレイヤー共通） ＞ Video Lite の埋め込み
 ---
 
-# 外部サイトへの埋め込み
+# Video Lite の埋め込み
 {: .no_toc }
 
 Video Lite を自社サイトに設置する方法の概要です。接客・診断コンテンツをサイトに常駐させる用途に向いています。

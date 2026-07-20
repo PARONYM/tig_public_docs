@@ -1,16 +1,15 @@
 ---
-title: 外部サイトへの埋め込み
-parent: プレイヤー（Video）
-grand_parent: Tig Video
-nav_order: 80
+title: Video の埋め込み
+parent: 埋め込み連携（プレイヤー共通）
+nav_order: 50
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
-nav_section: Tig Video
-nav_label: 外部サイトへの埋め込み
-nav_path: Tig Video ＞ プレイヤー（Video） ＞ 外部サイトへの埋め込み
+nav_section: プレイヤー共通
+nav_label: Video の埋め込み
+nav_path: 埋め込み連携（プレイヤー共通） ＞ Video の埋め込み
 ---
 
-# 外部サイトへの埋め込み
+# Video の埋め込み
 {: .no_toc }
 
 Tig Video／Branch Video を自社サイトに設置する方法の概要です。

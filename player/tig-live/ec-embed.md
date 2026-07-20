@@ -1,15 +1,15 @@
 ---
-title: 外部サイトへの埋め込み・フローティング
-parent: Tig LIVE
-nav_order: 40  # CMS（LIVE）=10、プレイヤー（LIVE）=20、プレイヤー（アーカイブ）=30 の次
+title: LIVE・アーカイブの埋め込み
+parent: 埋め込み連携（プレイヤー共通）
+nav_order: 70
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
-nav_section: Tig LIVE
-nav_label: 外部サイトへの埋め込み・フローティング
-nav_path: Tig LIVE ＞ 外部サイトへの埋め込み・フローティング
+nav_section: プレイヤー共通
+nav_label: LIVE・アーカイブの埋め込み
+nav_path: 埋め込み連携（プレイヤー共通） ＞ LIVE・アーカイブの埋め込み
 ---
 
-# 外部サイトへの埋め込み・フローティング
+# LIVE・アーカイブの埋め込み
 {: .no_toc }
 
 LIVE配信・アーカイブを、EC サイトなどの外部サイトに埋め込んで表示する機能の概要です。

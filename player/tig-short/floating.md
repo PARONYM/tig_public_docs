@@ -1,15 +1,15 @@
 ---
-title: フローティング表示（Short）
+title: Short のフローティング表示
 parent: 埋め込み連携（プレイヤー共通）
-nav_order: 30
+nav_order: 40
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
 nav_section: プレイヤー共通
-nav_label: フローティング表示（Short）
-nav_path: 埋め込み連携（プレイヤー共通） ＞ フローティング表示（Short）
+nav_label: Short のフローティング表示
+nav_path: 埋め込み連携（プレイヤー共通） ＞ Short のフローティング表示
 ---
 
-# フローティング表示（Short）
+# Short のフローティング表示
 {: .no_toc }
 
 Tig Short プレイヤーを、外部サイトのページ上に小窓（フローティング）で表示する機能の概要です。

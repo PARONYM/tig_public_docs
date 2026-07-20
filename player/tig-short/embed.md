@@ -1,7 +1,7 @@
 ---
 title: Short の埋め込み・連携API
 parent: 埋め込み連携（プレイヤー共通）
-nav_order: 40
+nav_order: 30
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
 nav_section: プレイヤー共通

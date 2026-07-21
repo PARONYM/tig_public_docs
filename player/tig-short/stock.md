@@ -7,7 +7,7 @@ nav_order: 30
 surface: Player
 nav_section: Tig Short
 nav_label: ストック（あとで見る）
-nav_path: Tig Short ＞ プレイヤー ＞ ストック（あとで見る）
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ ストック（あとで見る）
 ---
 
 # ストック（あとで見る）

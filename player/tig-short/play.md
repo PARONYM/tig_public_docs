@@ -7,7 +7,7 @@ nav_order: 10
 surface: Player
 nav_section: Tig Short
 nav_label: 動画の再生・操作
-nav_path: Tig Short ＞ プレイヤー ＞ 動画の再生・操作
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ 動画の再生・操作
 ---
 
 # 動画の再生・操作

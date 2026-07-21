@@ -6,8 +6,8 @@ nav_order: 20
 # 「画面から探す」索引用（screen-index.md が自動集約）。リンク名は実画面に準拠。
 surface: Player
 nav_section: Tig Short
-nav_label: 商品ポイントの表示とタップ
-nav_path: Tig Short ＞ プレイヤー ＞ 商品ポイントの表示とタップ
+nav_label: 商品ポイント（Tigポイント）の表示とタップ
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ 商品ポイント（Tigポイント）の表示とタップ
 ---
 
 # 商品ポイント（Tigポイント）の表示とタップ

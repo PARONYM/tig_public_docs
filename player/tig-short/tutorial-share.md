@@ -7,7 +7,7 @@ nav_order: 100
 surface: Player
 nav_section: Tig Short
 nav_label: チュートリアル・シェア
-nav_path: Tig Short ＞ プレイヤー ＞ チュートリアル・シェア
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ チュートリアル・シェア
 ---
 
 # チュートリアル・シェア

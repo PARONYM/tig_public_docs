@@ -7,7 +7,7 @@ nav_order: 70
 surface: Player
 nav_section: Tig Short
 nav_label: 計測（アナリティクス）
-nav_path: Tig Short ＞ プレイヤー ＞ 計測（アナリティクス）
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ 計測（アナリティクス）
 ---
 
 # 計測（アナリティクス）

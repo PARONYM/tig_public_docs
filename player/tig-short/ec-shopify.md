@@ -7,7 +7,7 @@ nav_order: 60
 surface: Player
 nav_section: Tig Short
 nav_label: EC連携（商品購入・カート）
-nav_path: Tig Short ＞ プレイヤー ＞ EC連携（商品購入・カート）
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ EC連携（商品購入・カート）
 ---
 
 # EC連携（商品購入・カート）

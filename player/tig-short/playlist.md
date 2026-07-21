@@ -7,7 +7,7 @@ nav_order: 40
 surface: Player
 nav_section: Tig Short
 nav_label: プレイリスト（連続再生）
-nav_path: Tig Short ＞ プレイヤー ＞ プレイリスト（連続再生）
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ プレイリスト（連続再生）
 ---
 
 # プレイリスト（連続再生）

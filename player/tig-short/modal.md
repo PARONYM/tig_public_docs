@@ -7,7 +7,7 @@ nav_order: 50
 surface: Player
 nav_section: Tig Short
 nav_label: 商品モーダル（ポップアップ表示）
-nav_path: Tig Short ＞ プレイヤー ＞ 商品モーダル（ポップアップ表示）
+nav_path: Tig Short ＞ プレイヤー（Short） ＞ 商品モーダル（ポップアップ表示）
 ---
 
 # 商品モーダル（ポップアップ表示）

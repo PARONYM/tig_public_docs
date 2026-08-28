@@ -115,6 +115,10 @@ bottom: 96px;
 
 `top: auto;` を付けないと、上部の指定が残ったまま縦に引き伸ばされてしまいます。
 
+| 書く前（初期状態） | 書いた後 |
+|---|---|
+| ![初期状態では字幕が映像の上部に表示されている]({{ '/assets/img/subtitle/css-position-before.webp' | relative_url }}) | ![CSSを書いた後は字幕が映像の下部に表示されている]({{ '/assets/img/subtitle/css-position-after.webp' | relative_url }}) |
+
 ### 1行ごとに背景をつける（Video Lite / Short）
 {: #line-background }
 
@@ -133,6 +137,12 @@ bottom: 96px;
 | `--subtitle-bg-radius` | 背景の角の丸み |
 
 帯は**1行ごと**に、文字の長さに合わせて敷かれます（全幅の四角にはなりません）。Tig Video と Tig Branch Video では使えません。
+
+| 書く前 | 書いた後 |
+|---|---|
+| ![背景なしの字幕。明るい映像に白文字が重なっている]({{ '/assets/img/subtitle/css-linebg-before.png' | relative_url }}) | ![1行ごとに黒い帯が敷かれた字幕。2行目は文字が短いぶん帯も短い]({{ '/assets/img/subtitle/css-linebg-after.png' | relative_url }}) |
+
+上の例は2行に折り返した字幕です。2行目は文字数が少ないぶん、帯も短くなっています。
 
 ## 字幕ファイルをアップロードする
 
